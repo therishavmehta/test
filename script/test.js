@@ -1,3 +1,3 @@
 function add(){
-	document.write(5);
+	document.write(9);
 }
